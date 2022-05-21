@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.db22f121.js",
-    "index.html": "/index.html",
-    "main.db22f121.js.map": "/static/js/main.db22f121.js.map"
+    "main.js": "/Ganesh-P03/sea_basket.git/static/js/main.db22f121.js",
+    "index.html": "/Ganesh-P03/sea_basket.git/index.html",
+    "main.db22f121.js.map": "/Ganesh-P03/sea_basket.git/static/js/main.db22f121.js.map"
   },
   "entrypoints": [
     "static/js/main.db22f121.js"
